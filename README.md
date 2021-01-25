@@ -1,5 +1,6 @@
 ## 剑指Offer题目整理
-- [剑指Offer11_旋转数组的最小数字 ](剑指Offer/剑指Offer11_旋转数组的最小数字.md )
+- [剑指Offer07_ 重建二叉树](剑指Offer/剑指Offer07_重建二叉树.md)
+- [剑指Offer11_旋转数组的最小数字](剑指Offer/剑指Offer11_旋转数组的最小数字.md )
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
 - [剑指Offer17_打印从1到最大的n位数](剑指Offer/剑指Offer17_打印从1到最大的n位数.md)
 
