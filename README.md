@@ -1,4 +1,5 @@
 ## 剑指Offer题目整理
+- [剑指Offer03_数组中重复的数字](剑指Offer/剑指Offer03_数组中重复的数字.md)
 - [剑指Offer07_重建二叉树](剑指Offer/剑指Offer07_重建二叉树.md)
 - [剑指Offer11_旋转数组的最小数字](剑指Offer/剑指Offer11_旋转数组的最小数字.md)
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
