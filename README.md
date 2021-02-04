@@ -1,11 +1,15 @@
 ## 剑指Offer题目整理
 - [剑指Offer03_数组中重复的数字](剑指Offer/剑指Offer03_数组中重复的数字.md)
+- [剑指Offer05_替换空格](剑指Offer/剑指Offer05_替换空格.md)
+- [剑指Offer06_从尾到头打印链表.md](剑指Offer/剑指Offer06_从尾到头打印链表.md)
 - [剑指Offer07_重建二叉树](剑指Offer/剑指Offer07_重建二叉树.md)
+- [剑指Offer09_用两个栈实现队列](剑指Offer09_用两个栈实现队列.md)
 - [剑指Offer11_旋转数组的最小数字](剑指Offer/剑指Offer11_旋转数组的最小数字.md)
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
 - [剑指Offer17_打印从1到最大的n位数](剑指Offer/剑指Offer17_打印从1到最大的n位数.md)
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
+- [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_ 二叉树的镜像.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 
 ### 2.4 算法和数据操作
