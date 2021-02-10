@@ -10,16 +10,21 @@
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
 - [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_二叉树的镜像.md)
-- [剑指Offer28_对称的二叉树]((剑指Offer/剑指Offer28_对称的二叉树.md)
+- [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 
+## Hot_100
+
+## LeetCode
+- [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
+- [888. FairCandySwap](LeetCode_Order/FairCandySwap_888.md)
+- 
 ### 2.4 算法和数据操作
 - 2.4.1 递归和循环
 	- [面试题10： 斐波那契数列]()
 - 2.4.2 查找和排序
 	- [面试题11： 旋转数组的最小数字(二分法)](剑指Offer/剑指Offer11_旋转数组的最小数字.md)
 
-## Hot_100
 
 ### 简单 
 - [21. 合并两个有序链表](Hot_100/合并两个有序链表.md)
