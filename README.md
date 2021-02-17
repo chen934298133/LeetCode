@@ -3,8 +3,9 @@
 - [剑指Offer05_替换空格](剑指Offer/剑指Offer05_替换空格.md)
 - [剑指Offer06_从尾到头打印链表](剑指Offer/剑指Offer06_从尾到头打印链表.md)
 - [剑指Offer07_重建二叉树](剑指Offer/剑指Offer07_重建二叉树.md)
-- [剑指Offer09_用两个栈实现队列](剑指Offer09_用两个栈实现队列.md)
+- [剑指Offer09_用两个栈实现队列](剑指Offer/剑指Offer09_用两个栈实现队列.md)
 - [剑指Offer11_旋转数组的最小数字](剑指Offer/剑指Offer11_旋转数组的最小数字.md)
+- [剑指Offer12_矩阵中的路径(DFS+剪枝)](剑指Offer/剑指Offer12_矩阵中的路径.md)
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
 - [剑指Offer17_打印从1到最大的n位数](剑指Offer/剑指Offer17_打印从1到最大的n位数.md)
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
@@ -13,11 +14,13 @@
 - [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 
+
 ## Hot_100
 
 ## LeetCode
 - [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
 - [888. FairCandySwap](LeetCode_Order/FairCandySwap_888.md)
+- [703. KthLargestElementInAStream](KthLargestElementInAStream_703.md)
 - 
 ### 2.4 算法和数据操作
 - 2.4.1 递归和循环
