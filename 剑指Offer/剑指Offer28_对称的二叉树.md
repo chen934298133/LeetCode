@@ -59,9 +59,9 @@ class Solution {
   
     // 递归
     boolean recur(TreeNode L, TreeNode R) {
-        // 当 LLL 和 RRR 同时越过叶节点： 此树从顶至底的节点都对称，因此返回 true
+        // 当 L 和 R 同时越过叶节点： 此树从顶至底的节点都对称，因此返回 true
         if(L == null && R == null) return true;
-        // 当 LLL 或 RRR 中只有一个越过叶节点： 此树不对称，返回 false
+        // 当 L 或 R 中只有一个越过叶节点： 此树不对称，返回 false
         // 当节点 L ！= 节点 R 值，此树不对称，返回 false
         if(L == null || R == null || L.val != R.val) return false;
         // 两对节点都对称时，才是对称树，因此用与逻辑符 && 连接。

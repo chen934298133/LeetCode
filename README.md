@@ -12,16 +12,16 @@
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
 - [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_二叉树的镜像.md)
 - [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
+- [剑指Offer29_顺时针打印矩阵](剑指Offer/剑指Offer29_顺时针打印矩阵.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
-
 
 ## Hot_100
 
 ## LeetCode
 - [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
 - [888. FairCandySwap](LeetCode_Order/FairCandySwap_888.md)
-- [703. KthLargestElementInAStream](KthLargestElementInAStream_703.md)
-- 
+- [703. KthLargestElementInAStream](LeetCode_Order/KthLargestElementInAStream_703.md)
+- [867. TransposeMatrix_867](LeetCode_Order/TransposeMatrix_867.md)
 ### 2.4 算法和数据操作
 - 2.4.1 递归和循环
 	- [面试题10： 斐波那契数列]()
