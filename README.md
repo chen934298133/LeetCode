@@ -17,11 +17,17 @@
 
 ## Hot_100
 
+- [合并两个有序链表_21](Hot_100/合并两个有序链表_21.md)
+- [汉明距离_461](Hot_100/汉明距离_461.md)
+
+
 ## LeetCode
 - [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
 - [888. FairCandySwap](LeetCode_Order/FairCandySwap_888.md)
 - [703. KthLargestElementInAStream](LeetCode_Order/KthLargestElementInAStream_703.md)
 - [867. TransposeMatrix_867](LeetCode_Order/TransposeMatrix_867.md)
+
+
 ### 2.4 算法和数据操作
 - 2.4.1 递归和循环
 	- [面试题10： 斐波那契数列]()
