@@ -26,6 +26,7 @@
 ## LeetCode
 - [5. LongestPalindromicSubstring_5](LeetCode_Order/LongestPalindromicSubstring_5.md)
 - [137. Single_Number_II_137](LeetCode_Order/Single_Number_II_137.md)
+- [544. Brick_Wall_544](LeetCode_Order/Brick_Wall_544.md)
 - [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
 - [690. Employee_Importance_690](LeetCode_Order/Employee_Importance_690.md)
 - [703. KthLargestElementInAStream](LeetCode_Order/KthLargestElementInAStream_703.md)
