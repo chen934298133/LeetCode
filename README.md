@@ -27,6 +27,7 @@
 
 ## LeetCode
 - [5. LongestPalindromicSubstring_5](LeetCode_Order/LongestPalindromicSubstring_5.md)
+- [53. Maximum_Subarray_53](LeetCode_Order/Maximum_Subarray_53.md)
 - [137. Single_Number_II_137](LeetCode_Order/Single_Number_II_137.md)
 - [544. Brick_Wall_544](LeetCode_Order/Brick_Wall_544.md)
 - [567. ArrangementOfStrings](LeetCode_Order/ArrangementOfStrings_567.md)
@@ -34,6 +35,8 @@
 - [703. KthLargestElementInAStream](LeetCode_Order/KthLargestElementInAStream_703.md)
 - [867. TransposeMatrix_867](LeetCode_Order/TransposeMatrix_867.md)
 - [888. FairCandySwap](LeetCode_Order/FairCandySwap_888.md)
+
+
 
 ### 2.4 算法和数据操作
 - 2.4.1 递归和循环
