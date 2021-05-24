@@ -11,6 +11,7 @@
 - [剑指Offer13_ 机器人的运动范围](剑指Offer/剑指Offer13_机器人的运动范围.md)
 - [剑指Offer14_I_剪绳子](剑指Offer/剑指Offer14_I_剪绳子.md)
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
+- [剑指Offer16_数值的整数次方](剑指Offer/剑指Offer16_数值的整数次方.md)
 - [剑指Offer17_打印从1到最大的n位数](剑指Offer/剑指Offer17_打印从1到最大的n位数.md)
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
