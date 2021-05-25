@@ -13,6 +13,7 @@
 - [剑指Offer15_二进制中1的个数](剑指Offer/剑指Offer15_二进制中1的个数.md)
 - [剑指Offer16_数值的整数次方](剑指Offer/剑指Offer16_数值的整数次方.md)
 - [剑指Offer17_打印从1到最大的n位数](剑指Offer/剑指Offer17_打印从1到最大的n位数.md)
+- [剑指Offer20_表示数值的字符串](剑指Offer/剑指Offer20_表示数值的字符串.md)
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
 - [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_二叉树的镜像.md)
