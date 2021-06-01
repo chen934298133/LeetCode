@@ -17,6 +17,7 @@
 - [剑指Offer20_表示数值的字符串](剑指Offer/剑指Offer20_表示数值的字符串.md)
 - [剑指Offer21_调整数组顺序使奇数位于偶数前面](剑指Offer/剑指Offer21_调整数组顺序使奇数位于偶数前面.md)
 - [剑指Offer22_链表中倒数第k个节点](剑指Offer/剑指Offer22_链表中倒数第k个节点.md)
+- [剑指Offer24_反转链表](剑指Offer/剑指Offer24_反转链表.md)
 - [剑指Offer25_合并两个排序的链表](剑指Offer/剑指Offer25_合并两个排序的链表.md)
 - [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_二叉树的镜像.md)
 - [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
