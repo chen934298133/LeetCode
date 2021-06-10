@@ -1,4 +1,4 @@
-## 剑指Offer题目整理1
+## 剑指Offer题目整理
 - [剑指Offer03_数组中重复的数字](剑指Offer/剑指Offer03_数组中重复的数字.md)
 - [剑指Offer05_替换空格](剑指Offer/剑指Offer05_替换空格.md)
 - [剑指Offer06_从尾到头打印链表](剑指Offer/剑指Offer06_从尾到头打印链表.md)
@@ -22,6 +22,7 @@
 - [剑指Offer27_ 二叉树的镜像](剑指Offer/剑指Offer27_二叉树的镜像.md)
 - [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
 - [剑指Offer29_顺时针打印矩阵](剑指Offer/剑指Offer29_顺时针打印矩阵.md)
+- [剑指Offer45_把数组排成最小的数](剑指Offer/剑指Offer45_把数组排成最小的数.md)
 - [剑指Offer59_II_队列的最大值](剑指Offer/剑指Offer59_II_队列的最大值.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 
