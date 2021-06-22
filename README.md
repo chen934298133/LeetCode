@@ -23,6 +23,7 @@
 - [剑指Offer28_对称的二叉树](剑指Offer/剑指Offer28_对称的二叉树.md)
 - [剑指Offer29_顺时针打印矩阵](剑指Offer/剑指Offer29_顺时针打印矩阵.md)
 - [剑指Offer32_I_从上到下打印二叉树](剑指Offer/剑指Offer32_I_从上到下打印二叉树.md)
+- [剑指Offer32_II_从上到下打印二叉树](剑指Offer/剑指Offer32_II_从上到下打印二叉树.md)
 - [剑指Offer32_III_从上到下打印二叉树](剑指Offer/剑指Offer32_III_从上到下打印二叉树.md)
 - [剑指Offer45_把数组排成最小的数](剑指Offer/剑指Offer45_把数组排成最小的数.md)
 - [剑指Offer59_II_队列的最大值](剑指Offer/剑指Offer59_II_队列的最大值.md)
