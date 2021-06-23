@@ -26,6 +26,7 @@
 - [剑指Offer32_II_从上到下打印二叉树](剑指Offer/剑指Offer32_II_从上到下打印二叉树.md)
 - [剑指Offer32_III_从上到下打印二叉树](剑指Offer/剑指Offer32_III_从上到下打印二叉树.md)
 - [剑指Offer45_把数组排成最小的数](剑指Offer/剑指Offer45_把数组排成最小的数.md)
+- [剑指Offer54_二叉搜索树的第k大节点](剑指Offer/剑指Offer54_二叉搜索树的第k大节点.md)
 - [剑指Offer59_II_队列的最大值](剑指Offer/剑指Offer59_II_队列的最大值.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 
