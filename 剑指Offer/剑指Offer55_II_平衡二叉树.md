@@ -38,7 +38,7 @@
 ### &#127826; 题解
 
 - 先序遍历 + 判断深度 （从顶至底）
-  - 
+  - 此方法容易想到，但会产生大量重复计算，时间复杂度较高。
 - 后序遍历 + 剪枝 （从底至顶）
   - 此方法为本题的最优解法，但剪枝的方法不易第一时间想到。
 
@@ -141,4 +141,4 @@ class Solution {
 
 </details>
   
-[参考](Krahets "链接：https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/solution/mian-shi-ti-55-i-er-cha-shu-de-shen-du-xian-xu-bia/")
+[参考](Krahets "链接：https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/solution/mian-shi-ti-55-ii-ping-heng-er-cha-shu-cong-di-zhi/")
