@@ -32,6 +32,7 @@
 - [剑指Offer59_II_队列的最大值](剑指Offer/剑指Offer59_II_队列的最大值.md)
 - [剑指Offer65_不用加减乘除做加法](剑指Offer/剑指Offer65_不用加减乘除做加法.md)
 - [剑指Offer68_I_二叉搜索树的最近公共祖先](剑指Offer/剑指Offer68_I_二叉搜索树的最近公共祖先.md)
+- [剑指Offer68_II_二叉树的最近公共祖先](剑指Offer/剑指Offer68_II_二叉树的最近公共祖先.md)
 
 ## Hot_100
 
